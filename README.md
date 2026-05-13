@@ -1,7 +1,7 @@
 # Assembly-Language-NASM
 
-Kedai Mamak Mundur — Mini ERP System
-**Mini ERP: Sales and Inventory Management System**  
+**Kedai Mamak Mundur —
+Mini ERP: Sales and Inventory Management System**  
 
 PROJECT OVERVIEW
 
